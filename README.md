@@ -1,5 +1,8 @@
 # A New Definition of Entropy in Non Probabilistic Form
 
+markdown
+![New Definition of Entropy in Non Probabilistic Form](Non-Probabilistic Entropy Infographic.png)
+
 ### Keywords: multiplicative entropy · gradient-driven · discrete systems · energy conservation · non-probabilistic entropy · non-coarse-grained · ontological entropy · epistemological thermodynamics
 
 This paper is a part of author's previous work(Zou, Z. K. (2025). The Thermodynamic Nature of Time, The Geometric Essence of Gravity-Mass, The Quantum Chirality of Space, The Non-Statistical Formula of Entropy, The Dynamical Rules of Causality. Zenodo. https://doi.org/10.5281/zenodo.14788393).
