@@ -1,6 +1,6 @@
 # A New Definition of Entropy in Non Probabilistic Form
 
-markdown
+
 
 ![Non-Probabilistic Entropy Infographic.png](https://raw.githubusercontent.com/arrow-time/A-New-Definition-of-Entropy-in-Non-Probabilistic-Form/refs/heads/main/Non-Probabilistic%20Entropy%20Infographic.png)
 
