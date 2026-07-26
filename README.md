@@ -1,8 +1,6 @@
 # A New Definition of Entropy in Non Probabilistic Form
 
-markdown
-
-! (https://github.com/arrow-time/A-New-Definition-of-Entropy-in-Non-Probabilistic-Form/Non-Probabilistic Entropy Infographic.png)
+Non-Probabilistic Entropy Infographic.png
 
 ### Keywords: multiplicative entropy · gradient-driven · discrete systems · energy conservation · non-probabilistic entropy · non-coarse-grained · ontological entropy · epistemological thermodynamics
 
